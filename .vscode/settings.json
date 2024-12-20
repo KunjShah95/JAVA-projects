@@ -1,3 +1,5 @@
 {
-    "editor.acceptSuggestionOnEnter": "on"
+    "editor.acceptSuggestionOnEnter": "on",
+    "git.ignoreLimitWarning": true,
+    "maven.view": "flat"
 }
