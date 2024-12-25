@@ -1,0 +1,15 @@
+IP: 127.0.0.1 | Method: GET | URL: / | Timestamp: Wed Dec 25 10:04:07 IST 2024
+IP: 127.0.0.1 | Method: GET | URL: /home | Timestamp: Wed Dec 25 10:04:17 IST 2024
+IP: 127.0.0.1 | Method: GET | URL: /directory | Timestamp: Wed Dec 25 10:04:26 IST 2024
+IP: 127.0.0.1 | Method: GET | URL: /about | Timestamp: Wed Dec 25 10:04:39 IST 2024
+IP: 127.0.0.1 | Method: GET | URL: / | Timestamp: Wed Dec 25 10:04:49 IST 2024
+IP: 127.0.0.1 | Method: GET | URL: /about | Timestamp: Wed Dec 25 10:05:25 IST 2024
+IP: 127.0.0.1 | Method: GET | URL: /about | Timestamp: Wed Dec 25 10:05:29 IST 2024
+IP: 127.0.0.1 | Method: GET | URL: /about | Timestamp: Wed Dec 25 10:05:53 IST 2024
+IP: 127.0.0.1 | Method: GET | URL: /abou | Timestamp: Wed Dec 25 10:06:00 IST 2024
+IP: 127.0.0.1 | Method: GET | URL: /favicon.ico | Timestamp: Wed Dec 25 10:06:01 IST 2024
+IP: 127.0.0.1 | Method: GET | URL: /directory | Timestamp: Wed Dec 25 10:06:10 IST 2024
+IP: 127.0.0.1 | Method: GET | URL: /directory | Timestamp: Wed Dec 25 10:11:19 IST 2024
+IP: 127.0.0.1 | Method: GET | URL: /directory | Timestamp: Wed Dec 25 10:11:22 IST 2024
+IP: 127.0.0.1 | Method: GET | URL: /directory | Timestamp: Wed Dec 25 10:11:23 IST 2024
+IP: 127.0.0.1 | Method: GET | URL: / | Timestamp: Wed Dec 25 10:11:34 IST 2024
